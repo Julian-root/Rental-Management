@@ -1,0 +1,14 @@
+@layer base {
+    .swal2-toast.swal2-icon-sucess {
+        @apply bg-blue-300 !important;
+    }
+}
+
+.model.fade {
+    background: rgba(0,0,0,0.5);
+
+}
+
+.model.backdrop.fade {
+    opacity: 0;
+}
